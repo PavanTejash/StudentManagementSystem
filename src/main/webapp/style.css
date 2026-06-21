@@ -1,0 +1,22 @@
+body{
+    text-align:center;
+    background-color:#f2f2f2;
+    font-family:Arial;
+}
+
+h1{
+    color:blue;
+}
+
+form{
+    margin-top:20px;
+}
+
+input{
+    padding:8px;
+}
+
+a{
+    text-decoration:none;
+    font-size:20px;
+}
